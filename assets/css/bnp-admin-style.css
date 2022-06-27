@@ -1,0 +1,22 @@
+/******************************************************************************************/
+
+
+/* Style breaking news plugin screens 												  */
+
+
+/******************************************************************************************/
+
+.bnp_news_preview_section {
+    width: 100%;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+}
+
+.bnp_news_preview_section span,
+.bnp_news_preview_section a {
+    font-size: 16px;
+}
+
+.bnp_news_preview_section a {
+    text-decoration: none !important;
+}
