@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 # Description #
 This plugin is used for display the breaking news to the all pages.
 
-** Features #
+# Features #
 * User can select any post as a breaking news.
 * User can set the expiration time for the selected breaking news.
 * User can set styles for the breaking news section.
